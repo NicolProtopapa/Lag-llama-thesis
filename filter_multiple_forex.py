@@ -21,4 +21,5 @@ for curr in currencies:
     
     print(f"Αποθηκεύτηκε: {out_path} με {subset.shape[0]} γραμμές")
 
-print("✅ Τελείωσε η δημιουργία των αρχείων!")
+print("Τελείωσε η δημιουργία των αρχείων!")
+
